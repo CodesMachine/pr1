@@ -1,6 +1,4 @@
-﻿
-//sosa
-#include <iostream>
+﻿#include <iostream>
 
 // Определение узла связанного списка
 template <typename T>
